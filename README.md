@@ -1,11 +1,11 @@
 ### ACC-SDK
-- **Unofficial SDK for building HTML based extensions for Adobe Creative Cloud applications**
+- **Unofficial Adobe CC SDK**
 
 Unofficial simple SDK for creating HTML-based extensions for Adobe Creative Cloud applications with the extension build tool in zxp.
 
 *If you're looking for an easier way to build HTML extensions, check out the [Sublime Text plugin](https://github.com/davidderaedt/CC-Extension-Builder-for-Sublime-Text) or the [Brackets extension](https://github.com/davidderaedt/CC-Extension-Builder-for-Brackets), both built on top of this SDK.*
  
-![](http://i.cubeupload.com/3cAn88.png)
+![](http://i.cubeupload.com/OS74es.png)
 
 ## Toolkit of this SDK and their description
 * The folder "csinterface" contains all available CEP versions. Feel free to take what you need and use it.
