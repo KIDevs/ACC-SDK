@@ -50,7 +50,7 @@ For additional extension samples, check out the [official samples repository](ht
 
 
 
-###deployext
+##deployext
 
 Copies an existing extension folder to the appropriate location for it to be executed.
 
@@ -74,13 +74,13 @@ Example: To deploy an extension located at `~/my-awesome-ext/` with the ID `com.
 For a sample extension to start with, check out the [official samples repository](https://github.com/Adobe-CEP/Samples).
 
 
-###setdebugmode and disabledebugmode
+##setdebugmode and disabledebugmode
 
 For extensions to run, you should first run `debugmode.sh` (mac) or `debugmode.bat` (win) once to properly configure your system for extension development. Otherwise, extensions will refuse to launch.
 `disabledebugmode.sh` reverts to the default behavior. Windows users should update the CEP registry key manually.
 
 
-###execextendscript
+##execextendscript
 
 This script executes an ExtendScript (jsx) file via command line in Photoshop, Illustrator, InDesign, or After Effects. Unfortunately, InDesign scripts are not supported on Windows for now.
 
