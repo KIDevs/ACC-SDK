@@ -1,8 +1,15 @@
-### ACC-SDK
-- **Unofficial Adobe CC SDK**
-
+<p align="center">
+  <img src="http://i.cubeupload.com/OS74es.png" />
+  <h3 align="center">ACC-SDK</h3>
+  <p align="center">Unofficial Adobe CC SDK</p>
+  <p align="center">
+   <a href="https://github.com/KIDevs/ACC-SDK/"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg" alt="Platforms"></a>
+  </p>
+<p align="center">
 Unofficial simple SDK for creating HTML-based extensions for Adobe Creative Cloud applications with the extension build tool in zxp.
-
+ </p>
+ 
+ 
 *If you're looking for an easier way to build HTML extensions, check out the [Sublime Text plugin](https://github.com/davidderaedt/CC-Extension-Builder-for-Sublime-Text) or the [Brackets extension](https://github.com/KIDevs/ACC_Extensions_Builder), both built on top of this SDK.*
  
 ![](http://i.cubeupload.com/OS74es.png)
