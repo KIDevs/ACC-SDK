@@ -9,7 +9,7 @@
 Unofficial simple SDK for creating HTML-based extensions for Adobe Creative Cloud applications with the extension build tool in zxp.
  
  
- *If you're looking for an easier way to build HTML extensions, check out the [Sublime Text plugin](https://github.com/davidderaedt/CC-Extension-Builder-for-Sublime-Text) or the [Brackets extension](https://github.com/KIDevs/ACC_Extensions_Builder), both built on top of this SDK.*
+ *If you're looking for an easier way to build HTML extensions, check out the [Brackets extension](https://github.com/KIDevs/ACC_Extensions_Builder), both built on top of this SDK.*
  </p>
  
 
