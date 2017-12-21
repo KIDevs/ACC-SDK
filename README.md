@@ -21,6 +21,8 @@ Unofficial simple SDK for creating HTML-based extensions for Adobe Creative Clou
 
 * The folder "sap" contains a utility for packing and capturing your extension in the zxp package. Instruction inside.
 
+* The folder "ZXPSignCmd" Automated utility for creating certificates and signing extensions for Adobe CC.
+
 * The folder "templates" contains rsample templates for Adobe CC.
 
 
