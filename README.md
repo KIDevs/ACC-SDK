@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i.cubeupload.com/OS74es.png" />
+  <img src="http://i.cubeupload.com/ewp57m.png" />
   <h3 align="center">ACC-SDK</h3>
   <p align="center">Unofficial Adobe CC SDK</p>
   <p align="center">
