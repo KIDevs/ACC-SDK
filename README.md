@@ -6,7 +6,7 @@
    <a href="https://github.com/KIDevs/ACC-SDK/"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg" alt="Platforms"></a>
   </p>
     <p align="center">
- <img src="https://img.shields.io/badge/Support-CEP--4/8-blue.svg" alt="CEP Support">
+ <img src="https://img.shields.io/badge/Support-CEP--8-blue.svg" alt="CEP Support">
   </p>
 <p align="center">
 Unofficial simple SDK for creating HTML-based extensions for Adobe Creative Cloud applications with the extension build tool in zxp.
